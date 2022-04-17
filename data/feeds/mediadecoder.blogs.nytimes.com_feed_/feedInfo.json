@@ -1,0 +1,183 @@
+{
+    "prefs": {
+        "enabled": true,
+        "url": "http://mediadecoder.blogs.nytimes.com/feed/",
+        "ctSecsBetwRenews": 86400,
+        "flNonListSubscribe": false
+    },
+    "data": {
+        "feedhash": ""
+    },
+    "stats": {
+        "ctReads": 1,
+        "ctReadErrors": 0,
+        "ctConsecutiveReadErrors": 0,
+        "ctItems": 20,
+        "ctEnclosures": 0,
+        "ctFeedTextChanges": 0,
+        "ct304s": 0,
+        "ctItemsTooOld": 0,
+        "ctReadsSkipped": 0,
+        "ctInfoReads": 0,
+        "ctInfoWrites": 1,
+        "whenSubscribed": "2022-04-17T12:26:09.740Z",
+        "whenLastRead": "2022-04-17T12:26:09.698Z",
+        "whenLastNewItem": "2022-04-17T12:26:09.698Z",
+        "mostRecentPubDate": "2022-04-17T09:00:07.000Z",
+        "whenLastInfoWrite": "2022-04-17T12:26:10.456Z",
+        "whenLastReadError": "1970-01-01T00:00:00.000Z",
+        "whenLastInfoRead": "1970-01-01T00:00:00.000Z",
+        "lastReadError": "",
+        "itemSerialnum": 0,
+        "ctSecsLastRead": 0.758
+    },
+    "feedInfo": {
+        "title": "NYT > Business > Media",
+        "link": "https://www.nytimes.com/section/business/media",
+        "description": null
+    },
+    "history": [
+        {
+            "title": "The Murdochs, From Page to Screen",
+            "link": "https://www.nytimes.com/2022/04/17/insider/the-murdochs-from-page-to-screen.html",
+            "description": "A documentary series uses new material and archival footage to expand on a New York Times Magazine investigation.",
+            "guid": "https://www.nytimes.com/2022/04/17/insider/the-murdochs-from-page-to-screen.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "Kim Jong-un Gives North Korean TV Anchor a Luxury Home",
+            "link": "https://www.nytimes.com/2022/04/15/world/asia/kim-jong-un-ri-chun-hee-luxury-home.html",
+            "description": "Ri Chun-hee, who delivers the news with a soaring, bombastic tenor, received a two-story apartment in a riverside complex from the country’s leader, apparently for her loyalty.",
+            "guid": "https://www.nytimes.com/2022/04/15/world/asia/kim-jong-un-ri-chun-hee-luxury-home.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "Coachella Kicks Off a High-Stakes, Still Uncertain Concert Season",
+            "link": "https://www.nytimes.com/2022/04/14/arts/music/coachella-summer-concerts-covid.html",
+            "description": "The live music industry is expecting a record year, as shows return in force following pandemic shutdowns. But coronavirus cases, and related setbacks, are complicating plans.",
+            "guid": "https://www.nytimes.com/2022/04/14/arts/music/coachella-summer-concerts-covid.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "Quartz, the Business News Site, Drops Its Paywall",
+            "link": "https://www.nytimes.com/2022/04/14/business/media/quartz-paywall.html",
+            "description": "The move runs contrary to what has become the typical business model for digital news outlets.",
+            "guid": "https://www.nytimes.com/2022/04/14/business/media/quartz-paywall.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "Will Substack Go Beyond Newsletters? A Company Weighs Its Future.",
+            "link": "https://www.nytimes.com/2022/04/13/business/media/substack-growth-newsletters.html",
+            "description": "The publishing platform’s founders want Substack to be an “alternate universe on the internet.” But it faces copycat rivals, an exodus by writers and a need to move beyond newsletters.",
+            "guid": "https://www.nytimes.com/2022/04/13/business/media/substack-growth-newsletters.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "Gilbert Gottfried, Comedian With a Distinctive Voice, Dies at 67",
+            "link": "https://www.nytimes.com/2022/04/12/arts/gilbert-gottfried-dead.html",
+            "description": "His credits ranged from the family-friendly “Aladdin” to the unfettered vulgarity of “The Aristocrats” and included a brief stint on “Saturday Night Live.”",
+            "guid": "https://www.nytimes.com/2022/04/12/arts/gilbert-gottfried-dead.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "On TV, the Truth Hurts",
+            "link": "https://www.nytimes.com/2022/04/12/arts/television/true-story-docudramas.html",
+            "description": "Television is hooked on scripted dramas based on real life. But they rarely measure up either to actual life or to actual drama.",
+            "guid": "https://www.nytimes.com/2022/04/12/arts/television/true-story-docudramas.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "Twitter Grapples With an Elon Musk Problem",
+            "link": "https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html",
+            "description": "Mr. Musk, Twitter’s biggest shareholder, is free to buy more stock in the company and could use the platform against itself. Some employees are dismayed.",
+            "guid": "https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "Elon Musk Will Not Join Twitter’s Board, Company Says",
+            "link": "https://www.nytimes.com/2022/04/10/technology/elon-musk-twitter-board.html",
+            "description": "The announcement reverses a decision last week, when Twitter said Mr. Musk would become a board member after amassing a 9.2 percent stake in the company.",
+            "guid": "https://www.nytimes.com/2022/04/10/technology/elon-musk-twitter-board.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "New Era Begins at Warner Bros., Back Toward Its Entertainment Roots",
+            "link": "https://www.nytimes.com/2022/04/10/business/media/warner-bros-discovery.html",
+            "description": "With a new owner, the 99-year-old movie studio appears headed back to its traditional sweet spot as an entertainment company. But the business of Hollywood is no longer the same.",
+            "guid": "https://www.nytimes.com/2022/04/10/business/media/warner-bros-discovery.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "Will Smith Barred From Attending Oscars for 10 Years After Slap",
+            "link": "https://www.nytimes.com/2022/04/08/movies/will-smith-slap-academy.html",
+            "description": "Smith, who won best actor this year, can still be nominated for Oscars, industry officials said, but will be unable to attend the Academy Awards ceremony and other events.",
+            "guid": "https://www.nytimes.com/2022/04/08/movies/will-smith-slap-academy.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "Discovery Closes In on Acquisition of WarnerMedia",
+            "link": "https://www.nytimes.com/2022/04/08/business/media/discovery-warner-media.html",
+            "description": "The blockbuster merger of Discovery and WarnerMedia closed on Friday, putting many of the biggest names in movies, TV and news under one roof.",
+            "guid": "https://www.nytimes.com/2022/04/08/business/media/discovery-warner-media.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "Discovery Announces New Leaders For Soon-to-be Warner Bros. Discovery",
+            "link": "https://www.nytimes.com/2022/04/07/business/media/discovery-warner-leadership.html",
+            "description": "David Zaslav, the chief executive of Discovery who will lead the new company, appointed many of his longtime lieutenants to key positions.",
+            "guid": "https://www.nytimes.com/2022/04/07/business/media/discovery-warner-leadership.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "Minnesota T.V. Station Finds Old Footage of a Very Young Prince",
+            "link": "https://www.nytimes.com/2022/04/07/us/prince-1970-teachers-strike-wcco.html",
+            "description": "The 1970 clip is a “miraculous” find, a former editor at the local CBS station said. It shows an interview with Prince, 11, commenting on a teachers’ strike in Minneapolis.",
+            "guid": "https://www.nytimes.com/2022/04/07/us/prince-1970-teachers-strike-wcco.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "Eric Boehlert, Media Critic and Writer, Dies at 56",
+            "link": "https://www.nytimes.com/2022/04/06/business/media/eric-boehlert-death.html",
+            "description": "“He was fearless and brilliant in his investigation of hypocrisies and double standards in the media, and his contribution was priceless,” his family said in a statement.",
+            "guid": "https://www.nytimes.com/2022/04/06/business/media/eric-boehlert-death.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "Pinterest Bans Climate Misinformation From Posts and Ads",
+            "link": "https://www.nytimes.com/2022/04/06/technology/pinterest-climate-misinformation.html",
+            "description": "The virtual pinboard service will remove content that denies climate change after also blocking ads about politics, weight loss and anti-vaccine sentiment.",
+            "guid": "https://www.nytimes.com/2022/04/06/technology/pinterest-climate-misinformation.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "How You’re Still Being Tracked on the Internet",
+            "link": "https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html",
+            "description": "Apple and Google are pushing privacy changes, but a shift in digital tracking is giving some platforms a bigger advertising advantage.",
+            "guid": "https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "New Law in El Salvador Curtails Sharing Gang Information",
+            "link": "https://www.nytimes.com/2022/04/06/world/americas/el-salvador-media-gangs.html",
+            "description": "A measure punishing the sharing of information about gangs is so vague, critics say, that virtually anyone can be arrested for speaking or writing about them, putting journalists in the cross hairs.",
+            "guid": "https://www.nytimes.com/2022/04/06/world/americas/el-salvador-media-gangs.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "Molly Shannon, of Saturday Night Live, Has a New Memoir",
+            "link": "https://www.nytimes.com/2022/04/05/books/molly-shannon-book.html",
+            "description": "In a new memoir, “Hello, Molly!”, Shannon — the “Saturday Night Live” alumna — recounts her comedy career and the devastating family tragedy that changed her life.",
+            "guid": "https://www.nytimes.com/2022/04/05/books/molly-shannon-book.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        },
+        {
+            "title": "Ann Sarnoff, Warner Bros. Chief, Is Set to Leave",
+            "link": "https://www.nytimes.com/2022/04/05/business/ann-sarnoff-warner-bros.html",
+            "description": "Ms. Sarnoff became the first woman to hold the job in 2019, but Discovery’s C.E.O. is expected to take over at least some of her role himself.",
+            "guid": "https://www.nytimes.com/2022/04/05/business/ann-sarnoff-warner-bros.html",
+            "when": "2022-04-17T12:26:09.698Z"
+        }
+    ],
+    "lists": [],
+    "calendar": {}
+}

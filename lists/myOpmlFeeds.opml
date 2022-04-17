@@ -12,6 +12,5 @@
 		</head>
 	<body text="lists/myopmlfeeds.opml">
 		<outline text="ACLU feeds" type="include" url="http://rss2.io/lists/aclu.opml"></outline>
-		<outline htmlUrl="http://www.vox.com/" name="voxAll" text="Vox -  All" title="Vox -  All" type="rss" xmlUrl="http://www.vox.com/rss/index.xml"></outline>
 		</body>
 	</opml>

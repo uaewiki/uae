@@ -1,0 +1,356 @@
+{
+    "ctItemsAdded": 20,
+    "whenLastItemAdded": "2022-04-17T12:26:10.455Z",
+    "ctSaves": 2,
+    "whenLastSave": "2022-04-17T12:27:03.692Z",
+    "flDirty": false,
+    "ctRiverBuilds": 1,
+    "whenLastRiverBuild": "2022-04-17T12:27:00.552Z",
+    "items": [
+        {
+            "title": "The Murdochs, From Page to Screen",
+            "link": "https://www.nytimes.com/2022/04/17/insider/the-murdochs-from-page-to-screen.html",
+            "description": "A documentary series uses new material and archival footage to expand on a New York Times Magazine investigation.",
+            "permalink": "https://www.nytimes.com/2022/04/17/insider/the-murdochs-from-page-to-screen.html",
+            "pubdate": "2022-04-17T09:00:07.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.440Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 10
+        },
+        {
+            "title": "Kim Jong-un Gives North Korean TV Anchor a Luxury Home",
+            "link": "https://www.nytimes.com/2022/04/15/world/asia/kim-jong-un-ri-chun-hee-luxury-home.html",
+            "description": "Ri Chun-hee, who delivers the news with a soaring, bombastic tenor, received a two-story apartment in a riverside complex from the country’s leader, apparently for her loyalty.",
+            "permalink": "https://www.nytimes.com/2022/04/15/world/asia/kim-jong-un-ri-chun-hee-luxury-home.html",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/04/16/world/15nkorea-anchor-1/15nkorea-anchor-1-moth.jpg",
+                "type": "image",
+                "length": null,
+                "height": "151",
+                "width": "151"
+            },
+            "pubdate": "2022-04-15T14:26:13.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.443Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 11
+        },
+        {
+            "title": "Coachella Kicks Off a High-Stakes, Still Uncertain Concert Season",
+            "link": "https://www.nytimes.com/2022/04/14/arts/music/coachella-summer-concerts-covid.html",
+            "description": "The live music industry is expecting a record year, as shows return in force following pandemic shutdowns. But coronavirus cases, and related setbacks, are complicating plans.",
+            "permalink": "https://www.nytimes.com/2022/04/14/arts/music/coachella-summer-concerts-covid.html",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/04/15/arts/14live-coachella1/14live-coachella1-moth.jpg",
+                "type": "image",
+                "length": null,
+                "height": "151",
+                "width": "151"
+            },
+            "pubdate": "2022-04-14T15:45:58.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.443Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 12
+        },
+        {
+            "title": "Quartz, the Business News Site, Drops Its Paywall",
+            "link": "https://www.nytimes.com/2022/04/14/business/media/quartz-paywall.html",
+            "description": "The move runs contrary to what has become the typical business model for digital news outlets.",
+            "permalink": "https://www.nytimes.com/2022/04/14/business/media/quartz-paywall.html",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/04/14/business/14Quartz-01/14Quartz-01-moth.jpg",
+                "type": "image",
+                "length": null,
+                "height": "151",
+                "width": "151"
+            },
+            "pubdate": "2022-04-14T13:00:08.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.444Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 13
+        },
+        {
+            "title": "Will Substack Go Beyond Newsletters? A Company Weighs Its Future.",
+            "link": "https://www.nytimes.com/2022/04/13/business/media/substack-growth-newsletters.html",
+            "description": "The publishing platform’s founders want Substack to be an “alternate universe on the internet.” But it faces copycat rivals, an exodus by writers and a need to move beyond newsletters.",
+            "permalink": "https://www.nytimes.com/2022/04/13/business/media/substack-growth-newsletters.html",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/04/13/business/00substack1/00substack1-moth.jpg",
+                "type": "image",
+                "length": null,
+                "height": "151",
+                "width": "151"
+            },
+            "pubdate": "2022-04-14T22:36:54.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.445Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 14
+        },
+        {
+            "title": "Gilbert Gottfried, Comedian With a Distinctive Voice, Dies at 67",
+            "link": "https://www.nytimes.com/2022/04/12/arts/gilbert-gottfried-dead.html",
+            "description": "His credits ranged from the family-friendly “Aladdin” to the unfettered vulgarity of “The Aristocrats” and included a brief stint on “Saturday Night Live.”",
+            "permalink": "https://www.nytimes.com/2022/04/12/arts/gilbert-gottfried-dead.html",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/04/13/obituaries/12gilbert-latenight-print1/12gilbert-latenight-moth.jpg",
+                "type": "image",
+                "length": null,
+                "height": "151",
+                "width": "151"
+            },
+            "pubdate": "2022-04-13T15:13:18.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.445Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 15
+        },
+        {
+            "title": "On TV, the Truth Hurts",
+            "link": "https://www.nytimes.com/2022/04/12/arts/television/true-story-docudramas.html",
+            "description": "Television is hooked on scripted dramas based on real life. But they rarely measure up either to actual life or to actual drama.",
+            "permalink": "https://www.nytimes.com/2022/04/12/arts/television/true-story-docudramas.html",
+            "pubdate": "2022-04-12T09:00:20.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.446Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 16
+        },
+        {
+            "title": "Twitter Grapples With an Elon Musk Problem",
+            "link": "https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html",
+            "description": "Mr. Musk, Twitter’s biggest shareholder, is free to buy more stock in the company and could use the platform against itself. Some employees are dismayed.",
+            "permalink": "https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/04/11/business/11Twitter-01/11Twitter-01-moth.jpg",
+                "type": "image",
+                "length": null,
+                "height": "151",
+                "width": "151"
+            },
+            "pubdate": "2022-04-12T20:01:27.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.446Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 17
+        },
+        {
+            "title": "Elon Musk Will Not Join Twitter’s Board, Company Says",
+            "link": "https://www.nytimes.com/2022/04/10/technology/elon-musk-twitter-board.html",
+            "description": "The announcement reverses a decision last week, when Twitter said Mr. Musk would become a board member after amassing a 9.2 percent stake in the company.",
+            "permalink": "https://www.nytimes.com/2022/04/10/technology/elon-musk-twitter-board.html",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/05/10/world/10twitter-02/10twitter-02-moth.jpg",
+                "type": "image",
+                "length": null,
+                "height": "151",
+                "width": "151"
+            },
+            "pubdate": "2022-04-14T13:07:11.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.447Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 18
+        },
+        {
+            "title": "New Era Begins at Warner Bros., Back Toward Its Entertainment Roots",
+            "link": "https://www.nytimes.com/2022/04/10/business/media/warner-bros-discovery.html",
+            "description": "With a new owner, the 99-year-old movie studio appears headed back to its traditional sweet spot as an entertainment company. But the business of Hollywood is no longer the same.",
+            "permalink": "https://www.nytimes.com/2022/04/10/business/media/warner-bros-discovery.html",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/04/10/business/10warner-Zaslav/10warner-Zaslav-moth.jpg",
+                "type": "image",
+                "length": null,
+                "height": "151",
+                "width": "151"
+            },
+            "pubdate": "2022-04-10T22:01:08.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.447Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 19
+        },
+        {
+            "title": "Will Smith Barred From Attending Oscars for 10 Years After Slap",
+            "link": "https://www.nytimes.com/2022/04/08/movies/will-smith-slap-academy.html",
+            "description": "Smith, who won best actor this year, can still be nominated for Oscars, industry officials said, but will be unable to attend the Academy Awards ceremony and other events.",
+            "permalink": "https://www.nytimes.com/2022/04/08/movies/will-smith-slap-academy.html",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/04/08/multimedia/08willsmith1/08willsmith1-moth.jpg",
+                "type": "image",
+                "length": null,
+                "height": "151",
+                "width": "151"
+            },
+            "pubdate": "2022-04-08T20:52:13.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.448Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 20
+        },
+        {
+            "title": "Discovery Closes In on Acquisition of WarnerMedia",
+            "link": "https://www.nytimes.com/2022/04/08/business/media/discovery-warner-media.html",
+            "description": "The blockbuster merger of Discovery and WarnerMedia closed on Friday, putting many of the biggest names in movies, TV and news under one roof.",
+            "permalink": "https://www.nytimes.com/2022/04/08/business/media/discovery-warner-media.html",
+            "pubdate": "2022-04-08T21:46:04.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.449Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 21
+        },
+        {
+            "title": "Discovery Announces New Leaders For Soon-to-be Warner Bros. Discovery",
+            "link": "https://www.nytimes.com/2022/04/07/business/media/discovery-warner-leadership.html",
+            "description": "David Zaslav, the chief executive of Discovery who will lead the new company, appointed many of his longtime lieutenants to key positions.",
+            "permalink": "https://www.nytimes.com/2022/04/07/business/media/discovery-warner-leadership.html",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/04/07/business/07warner-discovery/07warner-discovery-moth.jpg",
+                "type": "image",
+                "length": null,
+                "height": "151",
+                "width": "151"
+            },
+            "pubdate": "2022-04-07T16:17:09.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.449Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 22
+        },
+        {
+            "title": "Minnesota T.V. Station Finds Old Footage of a Very Young Prince",
+            "link": "https://www.nytimes.com/2022/04/07/us/prince-1970-teachers-strike-wcco.html",
+            "description": "The 1970 clip is a “miraculous” find, a former editor at the local CBS station said. It shows an interview with Prince, 11, commenting on a teachers’ strike in Minneapolis.",
+            "permalink": "https://www.nytimes.com/2022/04/07/us/prince-1970-teachers-strike-wcco.html",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/04/06/multimedia/06xp-prince/06xp-prince-moth.jpg",
+                "type": "image",
+                "length": null,
+                "height": "151",
+                "width": "151"
+            },
+            "pubdate": "2022-04-07T21:39:16.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.450Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 23
+        },
+        {
+            "title": "Eric Boehlert, Media Critic and Writer, Dies at 56",
+            "link": "https://www.nytimes.com/2022/04/06/business/media/eric-boehlert-death.html",
+            "description": "“He was fearless and brilliant in his investigation of hypocrisies and double standards in the media, and his contribution was priceless,” his family said in a statement.",
+            "permalink": "https://www.nytimes.com/2022/04/06/business/media/eric-boehlert-death.html",
+            "pubdate": "2022-04-09T17:41:50.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.451Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 24
+        },
+        {
+            "title": "Pinterest Bans Climate Misinformation From Posts and Ads",
+            "link": "https://www.nytimes.com/2022/04/06/technology/pinterest-climate-misinformation.html",
+            "description": "The virtual pinboard service will remove content that denies climate change after also blocking ads about politics, weight loss and anti-vaccine sentiment.",
+            "permalink": "https://www.nytimes.com/2022/04/06/technology/pinterest-climate-misinformation.html",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/04/06/business/06pinterest-01/merlin_203033124_369d86a6-df3b-4065-bc95-7d993328ca8b-moth.jpg",
+                "type": "image",
+                "length": null,
+                "height": "151",
+                "width": "151"
+            },
+            "pubdate": "2022-04-06T13:30:07.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.452Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 25
+        },
+        {
+            "title": "How You’re Still Being Tracked on the Internet",
+            "link": "https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html",
+            "description": "Apple and Google are pushing privacy changes, but a shift in digital tracking is giving some platforms a bigger advertising advantage.",
+            "permalink": "https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/03/30/business/00internet-tracking/00internet-tracking-moth.jpg",
+                "type": "image",
+                "length": null,
+                "height": "151",
+                "width": "151"
+            },
+            "pubdate": "2022-04-06T15:20:25.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.452Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 26
+        },
+        {
+            "title": "New Law in El Salvador Curtails Sharing Gang Information",
+            "link": "https://www.nytimes.com/2022/04/06/world/americas/el-salvador-media-gangs.html",
+            "description": "A measure punishing the sharing of information about gangs is so vague, critics say, that virtually anyone can be arrested for speaking or writing about them, putting journalists in the cross hairs.",
+            "permalink": "https://www.nytimes.com/2022/04/06/world/americas/el-salvador-media-gangs.html",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/04/06/world/06salvador-speech-01/06salvador-speech-01-moth.jpg",
+                "type": "image",
+                "length": null,
+                "height": "151",
+                "width": "151"
+            },
+            "pubdate": "2022-04-06T06:27:25.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.453Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 27
+        },
+        {
+            "title": "Molly Shannon, of Saturday Night Live, Has a New Memoir",
+            "link": "https://www.nytimes.com/2022/04/05/books/molly-shannon-book.html",
+            "description": "In a new memoir, “Hello, Molly!”, Shannon — the “Saturday Night Live” alumna — recounts her comedy career and the devastating family tragedy that changed her life.",
+            "permalink": "https://www.nytimes.com/2022/04/05/books/molly-shannon-book.html",
+            "enclosure": {
+                "url": "https://static01.nyt.com/images/2022/04/08/obituaries/00mollyshannon-image1/00mollyshannon-image1-moth.jpg",
+                "type": "image",
+                "length": null,
+                "height": "151",
+                "width": "151"
+            },
+            "pubdate": "2022-04-12T19:55:25.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.454Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 28
+        },
+        {
+            "title": "Ann Sarnoff, Warner Bros. Chief, Is Set to Leave",
+            "link": "https://www.nytimes.com/2022/04/05/business/ann-sarnoff-warner-bros.html",
+            "description": "Ms. Sarnoff became the first woman to hold the job in 2019, but Discovery’s C.E.O. is expected to take over at least some of her role himself.",
+            "permalink": "https://www.nytimes.com/2022/04/05/business/ann-sarnoff-warner-bros.html",
+            "pubdate": "2022-04-11T17:56:40.000Z",
+            "comments": "",
+            "feedUrl": "http://mediadecoder.blogs.nytimes.com/feed/",
+            "when": "2022-04-17T12:26:10.455Z",
+            "aggregator": "River5 v0.5.14",
+            "id": 29
+        }
+    ]
+}

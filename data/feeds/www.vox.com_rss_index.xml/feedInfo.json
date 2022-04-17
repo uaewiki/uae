@@ -1,0 +1,113 @@
+{
+    "prefs": {
+        "enabled": true,
+        "url": "http://www.vox.com/rss/index.xml",
+        "ctSecsBetwRenews": 86400,
+        "flNonListSubscribe": false
+    },
+    "data": {
+        "feedhash": ""
+    },
+    "stats": {
+        "ctReads": 1,
+        "ctReadErrors": 0,
+        "ctConsecutiveReadErrors": 0,
+        "ctItems": 10,
+        "ctEnclosures": 0,
+        "ctFeedTextChanges": 0,
+        "ct304s": 0,
+        "ctItemsTooOld": 0,
+        "ctReadsSkipped": 0,
+        "ctInfoReads": 0,
+        "ctInfoWrites": 1,
+        "whenSubscribed": "2022-04-17T12:26:09.114Z",
+        "whenLastRead": "2022-04-17T12:26:09.113Z",
+        "whenLastNewItem": "2022-04-17T12:26:09.113Z",
+        "mostRecentPubDate": "2022-04-17T11:00:00.000Z",
+        "whenLastInfoWrite": "2022-04-17T12:26:09.713Z",
+        "whenLastReadError": "1970-01-01T00:00:00.000Z",
+        "whenLastInfoRead": "1970-01-01T00:00:00.000Z",
+        "lastReadError": "",
+        "itemSerialnum": 0,
+        "ctSecsLastRead": 0.6
+    },
+    "feedInfo": {
+        "title": "Vox -  All",
+        "link": "https://www.vox.com/",
+        "description": null
+    },
+    "history": [
+        {
+            "title": "How to fight the affordable housing and climate crises at once",
+            "link": "https://www.vox.com/23025378/energy-efficiency-utilities-repairs",
+            "description": "Members of a church fix up a house in Amity Township, Pennsylvania. Homes in a state of disrepair are not eligible for federal weatherization money, contributing to higher energy bills. | Ben Hasty/MediaNews Group/Reading Eagle via Getty Images\n    \n\n  It’s all about the energy ...",
+            "guid": "https://www.vox.com/23025378/energy-efficiency-utilities-repairs",
+            "when": "2022-04-17T12:26:09.113Z"
+        },
+        {
+            "title": "How China’s Zero Covid policy is failing Shanghai",
+            "link": "https://www.vox.com/covid-19-coronavirus-explainers/2022/4/16/23028022/chinas-zero-covid-policy-is-failing-shanghai-lockdown",
+            "description": "A man with a mask is seen through a window at his home in a residential area on April 13, 2022 in Shanghai, China. Some 25 million people in Shanghai are in the second week of a strict lockdown, after a surge in Omicron cases. | Getty Images\n    \n\n  Rare dissent flares in ...",
+            "guid": "https://www.vox.com/covid-19-coronavirus-explainers/2022/4/16/23028022/chinas-zero-covid-policy-is-failing-shanghai-lockdown",
+            "when": "2022-04-17T12:26:09.113Z"
+        },
+        {
+            "title": "How to handle a lopsided friendship",
+            "link": "https://www.vox.com/23026672/how-to-handle-a-lopsided-friendship",
+            "description": "Getty Images/iStockphoto\n    \n\n  If you think a pal is way less (or way more) invested than you are, here’s what to do. Kristen’s 12-year relationship with her best friend Heather was put to the test during the pandemic. (Both women’s names have been changed at Kristen’s request ...",
+            "guid": "https://www.vox.com/23026672/how-to-handle-a-lopsided-friendship",
+            "when": "2022-04-17T12:26:09.113Z"
+        },
+        {
+            "title": "The banned weapon Russia (and the US) won’t give up",
+            "link": "https://www.vox.com/videos/2022/4/15/23026944/cluster-munition-war-crime-indiscriminate-bombs",
+            "description": "Why war crime investigators are looking for cluster bombs in Ukraine. In Ukraine, human rights investigators like Amnesty International and Bellingcat have been tracking Russian attacks to aid in a potential war crimes investigation. One thing they’re paying special attention to ...",
+            "guid": "https://www.vox.com/videos/2022/4/15/23026944/cluster-munition-war-crime-indiscriminate-bombs",
+            "when": "2022-04-17T12:26:09.113Z"
+        },
+        {
+            "title": "Everything Everywhere All at Once, explained by a quantum physicist",
+            "link": "https://www.vox.com/culture/23024945/everything-everywhere-all-at-once-multiverse-explained-quantum-physicist",
+            "description": "This is Michelle Yeoh in the very fantastic Everything Everywhere All at Once. In it she plays a mom, and her story made me want to call my mom. | Courtesy of A24\n    \n\n  The probability that we’re all living in the multiverse, and why that idea is so appealing. This past ...",
+            "guid": "https://www.vox.com/culture/23024945/everything-everywhere-all-at-once-multiverse-explained-quantum-physicist",
+            "when": "2022-04-17T12:26:09.113Z"
+        },
+        {
+            "title": "It’s time to think outside the mask mandate",
+            "link": "https://www.vox.com/science-and-health/2022/4/15/23022102/jennifer-nuzzo-mask-mandate-covid-pandemic-vaccines-testing-treatment-public-health",
+            "description": "A family wearing masks visits the Smithsonian National Museum of Natural History in Washington, DC, on March 17. The city’s indoor masking mandate expired in February, but some area college campuses have recently reinstated indoor mask requirements due to rising Covid-19 case ...",
+            "guid": "https://www.vox.com/science-and-health/2022/4/15/23022102/jennifer-nuzzo-mask-mandate-covid-pandemic-vaccines-testing-treatment-public-health",
+            "when": "2022-04-17T12:26:09.113Z"
+        },
+        {
+            "title": "In Her Body and Other Parties, Carmen Maria Machado knows where the bodies are buried",
+            "link": "https://www.vox.com/culture/23025602/her-body-and-other-parties-review-carmen-maria-machado",
+            "description": "Graywolf Press\n    \n\n  The Vox Book Club’s April pick is a tour de force short story collection. The Vox Book Club is linking to Bookshop.org to support local and independent booksellers.\nIn Carmen Maria Machado’s dazzling debut short story collection Her Body and Other Parties, ...",
+            "guid": "https://www.vox.com/culture/23025602/her-body-and-other-parties-review-carmen-maria-machado",
+            "when": "2022-04-17T12:26:09.113Z"
+        },
+        {
+            "title": "The case for regret",
+            "link": "https://www.vox.com/vox-conversations-podcast/23020287/vox-conversations-daniel-pink-the-power-of-regret",
+            "description": "Getty Images\n    \n\n  Regrets, I’ve had a few, and they’re good actually. Should we embrace our regrets?\nMy intuition on this question has always pushed me in the opposite direction. If there are any truly wasted emotions, regret and worry seem like good candidates — emotions ...",
+            "guid": "https://www.vox.com/vox-conversations-podcast/23020287/vox-conversations-daniel-pink-the-power-of-regret",
+            "when": "2022-04-17T12:26:09.113Z"
+        },
+        {
+            "title": "One Good Thing: 32 years after its debut, Microsoft Solitaire is still a blissful time-waster",
+            "link": "https://www.vox.com/23014144/one-good-thing-solitaire-microsoft-windows-review",
+            "description": "“Oh, hey, you can put that black four under that red five,” says a helpful person looking over your shoulder. | Microsoft\n    \n\n  It’s time to celebrate the calming vibes of computer solitaire in this messed-up world we live in. A couple of months ago, I bought a new computer ...",
+            "guid": "https://www.vox.com/23014144/one-good-thing-solitaire-microsoft-windows-review",
+            "when": "2022-04-17T12:26:09.113Z"
+        },
+        {
+            "title": "How war in Ukraine is making people hungry in the Middle East",
+            "link": "https://www.vox.com/23022693/war-ukraine-shipping-food-hunger",
+            "description": "A baker prepares the traditional bread product manoushe in the Lebanese city of Chtaura. | Vassilis Poularikas/NurPhoto via Getty Images\n    \n\n  There’s enough food in the world, but it’s getting too expensive to ship it. Food is central to the observance of Ramadan, the Muslim ...",
+            "guid": "https://www.vox.com/23022693/war-ukraine-shipping-food-hunger",
+            "when": "2022-04-17T12:26:09.113Z"
+        }
+    ],
+    "lists": [],
+    "calendar": {}
+}

@@ -1,0 +1,113 @@
+{
+    "prefs": {
+        "enabled": true,
+        "url": "https://www.aclu.org/taxonomy/feed-term/8/feed",
+        "ctSecsBetwRenews": 86400,
+        "flNonListSubscribe": false
+    },
+    "data": {
+        "feedhash": ""
+    },
+    "stats": {
+        "ctReads": 1,
+        "ctReadErrors": 0,
+        "ctConsecutiveReadErrors": 0,
+        "ctItems": 10,
+        "ctEnclosures": 0,
+        "ctFeedTextChanges": 0,
+        "ct304s": 0,
+        "ctItemsTooOld": 0,
+        "ctReadsSkipped": 0,
+        "ctInfoReads": 0,
+        "ctInfoWrites": 1,
+        "whenSubscribed": "2022-04-17T12:26:11.298Z",
+        "whenLastRead": "2022-04-17T12:26:11.270Z",
+        "whenLastNewItem": "2022-04-17T12:26:11.270Z",
+        "mostRecentPubDate": "2022-04-15T17:15:40.000Z",
+        "whenLastInfoWrite": "2022-04-17T12:26:11.448Z",
+        "whenLastReadError": "1970-01-01T00:00:00.000Z",
+        "whenLastInfoRead": "1970-01-01T00:00:00.000Z",
+        "lastReadError": "",
+        "itemSerialnum": 0,
+        "ctSecsLastRead": 0.177
+    },
+    "feedInfo": {
+        "title": "American Civil Liberties Union",
+        "link": "https://www.aclu.org/",
+        "description": "ACLU.org"
+    },
+    "history": [
+        {
+            "title": "Michigan Lawmakers Must Protect the Rights of Children and Join the Global Consensus",
+            "link": "https://www.aclu.org/news/human-rights/michigan-lawmakers-must-protect-the-rights-of-children-and-join-the-global-consensus",
+            "description": "As of April 15, 2022, I have spent 12,075 days behind bars for a 1989 crime I was convicted of committing at age 15. It would be the first and only arrest during my childhood. Since then, I have languished behind bars for more than two-thirds of my life, living in a veritable ...",
+            "guid": "https://www.aclu.org/news/human-rights/michigan-lawmakers-must-protect-the-rights-of-children-and-join-the-global-consensus",
+            "when": "2022-04-17T12:26:11.270Z"
+        },
+        {
+            "title": "New Trends May Help TikTok Collect Your Personal, Unchangeable Biometric Identifiers",
+            "link": "https://www.aclu.org/news/privacy-technology/new-trends-may-help-tiktok-collect-your-personal-unchangeable-biometric-identifiers",
+            "description": "People post pictures and recordings of themselves every day online. It feels harmless, and for the most part, it is. But new technologies can add a dangerous layer to casual social media posting: the possible extraction, without our knowledge or consent, of our biometric ...",
+            "guid": "https://www.aclu.org/news/privacy-technology/new-trends-may-help-tiktok-collect-your-personal-unchangeable-biometric-identifiers",
+            "when": "2022-04-17T12:26:11.270Z"
+        },
+        {
+            "title": "Alabama Wants to Criminalize Medically-Necessary Care for Trans Youth. Two Dads are Fighting Back.",
+            "link": "https://www.aclu.org/news/lgbtq-rights/alabama-wants-to-criminalize-medically-necessary-care-for-trans-youth-two-dads-are-fighting-back",
+            "description": "Although they have never met one another, Jeff Walker and Jeff White have a lot in common. Both have called Alabama home for decades and have built their lives around raising a family there. Both were unsure about what to do when each of their daughters said, “I’m transgender.” ...",
+            "guid": "https://www.aclu.org/news/lgbtq-rights/alabama-wants-to-criminalize-medically-necessary-care-for-trans-youth-two-dads-are-fighting-back",
+            "when": "2022-04-17T12:26:11.270Z"
+        },
+        {
+            "title": "How Ending Legacy Admissions Can Help Achieve Greater Education Equity",
+            "link": "https://www.aclu.org/news/racial-justice/how-ending-legacy-admissions-can-help-achieve-greater-education-equity",
+            "description": "Higher education should be accessible to everyone — regardless of background or socioeconomic status — but unfortunately, that’s not the reality for all students. For many first generation, low-income, Black, Latinx, and other students of color, the road to college is filled ...",
+            "guid": "https://www.aclu.org/news/racial-justice/how-ending-legacy-admissions-can-help-achieve-greater-education-equity",
+            "when": "2022-04-17T12:26:11.270Z"
+        },
+        {
+            "title": "10 Books Politicians Don’t Want You to Read",
+            "link": "https://www.aclu.org/news/free-speech/10-books-politicians-dont-want-you-to-read",
+            "description": "Book bans are nothing new. Throughout history, certain books have come under fire for content deemed inappropriate or controversial — often, that content is by and about people of color, the LGBTQ community, and other marginalized groups. As a spate of classroom censorship bills ...",
+            "guid": "https://www.aclu.org/news/free-speech/10-books-politicians-dont-want-you-to-read",
+            "when": "2022-04-17T12:26:11.270Z"
+        },
+        {
+            "title": "You Have the Right to Record Law Enforcement Officers — Including at the Border",
+            "link": "https://www.aclu.org/news/free-speech/you-have-the-right-to-record-law-enforcement-officers-including-at-the-border",
+            "description": "Like many people who live in San Diego, Christian Ramirez, a community organizer and human rights advocate, frequently crosses into Mexico to visit family members. One June afternoon, Mr. Ramirez witnessed male U.S. Customs and Border Protection (CBP) officers at the San Ysidro ...",
+            "guid": "https://www.aclu.org/news/free-speech/you-have-the-right-to-record-law-enforcement-officers-including-at-the-border",
+            "when": "2022-04-17T12:26:11.270Z"
+        },
+        {
+            "title": "Indigenous Students Should Be Allowed to Wear Tribal Regalia at Graduation",
+            "link": "https://www.aclu.org/news/religious-liberty/indigenous-students-should-be-allowed-to-wear-tribal-regalia-at-graduation",
+            "description": "Graduation should be a joyful occasion for high school seniors. But for some Indigenous students, this special time of year can be fraught with uncertainty or controversy over their ability to wear tribal regalia during their schools’ commencement ceremonies. Whether an eagle ...",
+            "guid": "https://www.aclu.org/news/religious-liberty/indigenous-students-should-be-allowed-to-wear-tribal-regalia-at-graduation",
+            "when": "2022-04-17T12:26:11.270Z"
+        },
+        {
+            "title": "Four Ways the TSA Is Making Flying Easier for Transgender People",
+            "link": "https://www.aclu.org/news/lgbtq-rights/four-ways-the-tsa-is-making-flying-easier-for-transgender-people",
+            "description": "Going through airport security is never fun, but it can be particularly difficult for transgender people. In addition to universal annoyances (did you remember to take off your shoes?) transgender people may not have identification documents that match who they are. Many ...",
+            "guid": "https://www.aclu.org/news/lgbtq-rights/four-ways-the-tsa-is-making-flying-easier-for-transgender-people",
+            "when": "2022-04-17T12:26:11.270Z"
+        },
+        {
+            "title": "Title 42 Isn’t Supported By Science — The CDC Must End it Now",
+            "link": "https://www.aclu.org/news/immigrants-rights/title-42-isnt-supported-by-science-the-cdc-must-end-it-now",
+            "description": "​​This week, the Centers for Disease Control will decide whether or not to finally end a policy that has shut down asylum at the Southern border for two years. The Trump White House reportedly pushed the CDC to use its public health authorities — Title 42 — to enact the ...",
+            "guid": "https://www.aclu.org/news/immigrants-rights/title-42-isnt-supported-by-science-the-cdc-must-end-it-now",
+            "when": "2022-04-17T12:26:11.270Z"
+        },
+        {
+            "title": "We Need Digital Cash That is Actually Like Cash",
+            "link": "https://www.aclu.org/news/privacy-technology/we-need-digital-cash-that-is-actually-like-cash",
+            "description": "There’s a lot of discussion all over the world about the future of money. Cryptocurrency has, of course, become a multi-trillion-dollar market. Despite this success, cryptocurrency has not become a fully functional currency, and, for a variety of reasons, most governments do not ...",
+            "guid": "https://www.aclu.org/news/privacy-technology/we-need-digital-cash-that-is-actually-like-cash",
+            "when": "2022-04-17T12:26:11.270Z"
+        }
+    ],
+    "lists": [],
+    "calendar": {}
+}

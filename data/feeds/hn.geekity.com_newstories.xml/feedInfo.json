@@ -1,0 +1,400 @@
+{
+    "prefs": {
+        "enabled": true,
+        "url": "http://hn.geekity.com/newstories.xml",
+        "ctSecsBetwRenews": 86400,
+        "flNonListSubscribe": false
+    },
+    "data": {
+        "feedhash": ""
+    },
+    "stats": {
+        "ctReads": 1,
+        "ctReadErrors": 0,
+        "ctConsecutiveReadErrors": 0,
+        "ctItems": 50,
+        "ctEnclosures": 0,
+        "ctFeedTextChanges": 0,
+        "ct304s": 0,
+        "ctItemsTooOld": 0,
+        "ctReadsSkipped": 0,
+        "ctInfoReads": 0,
+        "ctInfoWrites": 1,
+        "whenSubscribed": "2022-04-17T12:26:10.003Z",
+        "whenLastRead": "2022-04-17T12:26:09.948Z",
+        "whenLastNewItem": "2022-04-17T12:26:09.948Z",
+        "mostRecentPubDate": "2022-04-17T12:25:32.000Z",
+        "whenLastInfoWrite": "2022-04-17T12:26:11.010Z",
+        "whenLastReadError": "1970-01-01T00:00:00.000Z",
+        "whenLastInfoRead": "1970-01-01T00:00:00.000Z",
+        "lastReadError": "",
+        "itemSerialnum": 0,
+        "ctSecsLastRead": 1.062
+    },
+    "feedInfo": {
+        "title": "Hacker News Firehose",
+        "link": "https://news.ycombinator.com/newest",
+        "description": "All links posted to Hacker News.",
+        "cloud": {
+            "domain": "rpc.rsscloud.io",
+            "port": "5337",
+            "path": "/pleaseNotify",
+            "registerProcedure": "",
+            "protocol": "http-post"
+        }
+    },
+    "history": [
+        {
+            "title": "Philadelphia to reinstate mask mandate on Monday after rise in Covid cases",
+            "link": "https://www.npr.org/2022/04/11/1092174190/philadelphia-mask-mandate-covid",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060372",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Vampire Attack Twitter",
+            "link": "https://geohot.github.io//blog/jekyll/update/2022/04/16/vampire-attack-twitter.html",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060368",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Russians who fled at outbreak of Ukraine war reluctantly go home",
+            "link": "https://www.theguardian.com/world/2022/apr/16/russians-who-fled-at-outbreak-of-ukraine-war-reluctantly-go-home",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060364",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "How to code, build, and deploy from an iPad using Gitlab and Gitpod",
+            "link": "https://about.gitlab.com/blog/2022/02/10/how-to-code-build-and-deploy-from-an-ipad-using-gitlab-and-gitpod/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060363",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "How to Write More Clearly, Think More Clearly, and Learn Complex Material [pdf]",
+            "link": "http://www.covingtoninnovations.com/mc/WriteThinkLearn.pdf",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060362",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Ask HN: Build systems for large open source projects",
+            "link": "https://news.ycombinator.com/item?id=31060360",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060360",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "UK solar farms could cut bills and replace Russian gas faster than other sources",
+            "link": "https://news.sky.com/story/building-solar-farms-could-cut-bills-and-replace-russian-gas-faster-than-other-sources-of-energy-industry-says-12591406",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060349",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "ClojureDart: Differences with Clojure",
+            "link": "https://github.com/Tensegritics/ClojureDart/blob/main/doc/differences.md",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060341",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Text",
+            "link": "https://news.ycombinator.com/item?id=31060339",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060339",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Text",
+            "link": "https://news.ycombinator.com/item?id=31060338",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060338",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "FreeBSD Handbook Improvement Survey",
+            "link": "https://marc.info/?l=freebsd-announce&m=165016689418229&w=2",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060331",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Deceptive Design",
+            "link": "https://www.deceptive.design/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060324",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Project Socrates",
+            "link": "https://en.wikipedia.org/wiki/Project_Socrates",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060300",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "A deep dive through gRPC, Kubernetes, and AWS networking",
+            "link": "https://www.datadoghq.com/blog/engineering/grpc-dns-and-load-balancing-incident/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060280",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "A.I. Is Mastering Language. Should We Trust What It Says?",
+            "link": "https://www.nytimes.com/2022/04/15/magazine/ai-language.html",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060277",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Scallop: A Neurosymbolic Programming Language",
+            "link": "https://scallop-lang.github.io/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060265",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Bot or NOT? Recognize inauthentic activity online",
+            "link": "https://datadetoxkit.org/en/misinformation/botornot/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060256",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "China cracks down on livestreaming of ‘unauthorized’ games",
+            "link": "https://www.engadget.com/china-cracks-down-game-livestreaming-155234885.html",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060248",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "How to Protect Yourself Against GitHub/OAuth Apps Supply Chain Attacks",
+            "link": "https://www.arnica.io/blog/how-to-protect-yourself-against-github-oauth-apps-supply-chain-attacks",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060241",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "David Patterson – A New Golden Age for Computer Architecture (2020)",
+            "link": "https://www.youtube.com/watch?v=kFT54hO1X8M",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060210",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "The heart flow moment as white noise",
+            "link": "https://floice.vercel.app/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060206",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "My parents are Flat-Earthers",
+            "link": "https://jameshfisher.com/2019/01/20/my-parents-are-flat-earthers/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060202",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Stabilization of gamma sulfur enables 4000 cycle Li-S batteries [pdf]",
+            "link": "https://www.nature.com/articles/s42004-022-00626-2.pdf",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060183",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "NASA to roll back its mega rocket after failing to complete countdown test",
+            "link": "https://arstechnica.com/science/2022/04/nasa-to-roll-back-its-mega-rocket-after-failing-to-complete-countdown-test/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060171",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Anti‑Goldilocks",
+            "link": "https://www.pimco.com/en-us/insights/economic-and-market-commentary/cyclical-outlook/anti-goldilocks",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060167",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Argonne scientists team with NASA to enhance faster-than-sound jet engines",
+            "link": "https://www.anl.gov/article/argonne-scientists-team-with-nasa-to-enhance-fasterthansound-jet-engines",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060143",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Semiconductor average lead time breaks half-year barrier",
+            "link": "https://www.theregister.com/2022/04/14/semiconductor_lead_times/?td=rt-3a",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060122",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Ask HN: How to Cultivate Child's Interest in Science?",
+            "link": "https://news.ycombinator.com/item?id=31060117",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060117",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Show HN: Stockstack 1.1.0 – Your personal stock market data dashboard",
+            "link": "https://stockstack.io/110",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060109",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Ask HN: Freelancer? Seeking freelancer? (April 2022)",
+            "link": "https://news.ycombinator.com/item?id=31060108",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060108",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Dev Army Knife",
+            "link": "https://blog.hackersreboot.tech/dev-army-knife",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060096",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "The French town where the lighting is alive",
+            "link": "https://www.bbc.com/future/article/20220407-the-living-lights-that-could-reduce-energy-use",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060095",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Someone's heart flow moment as white noise",
+            "link": "https://news.ycombinator.com/item?id=31060079",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060079",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Detroit homeowners illegally taxed $600M still waiting to be compensated",
+            "link": "https://www.metrotimes.com/news/detroit-illegally-overtaxed-homeowners-600m-theyre-still-waiting-to-be-compensated-29800877",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060043",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Titanic's Unsinkable Stoker (2012)",
+            "link": "https://www.bbc.co.uk/news/uk-northern-ireland-17543632",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060042",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Suck: A Landmark Magazine of the Early Web",
+            "link": "https://www.theatlantic.com/technology/archive/2016/03/suck-webzine/473853/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060025",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Building a Hacker Space (2007) [pdf]",
+            "link": "https://fahrplan.events.ccc.de/congress/2007/Fahrplan/attachments/1003_Building%20a%20Hacker%20Space.pdf",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060023",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Scientists mail freeze-dried mouse sperm on a postcard (2021)",
+            "link": "https://www.sciencedaily.com/releases/2021/08/210805115440.htm",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060021",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Srm – remove files and prevent their recovery",
+            "link": "https://en.wikipedia.org/wiki/Srm_(Unix)",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060007",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Social Animals Seek Power in Surprisingly Complex Ways",
+            "link": "https://www.scientificamerican.com/article/social-animals-seek-power-in-surprisingly-complex-ways/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060005",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Poison, persecution and people: why Kenya’s raptors are disappearing",
+            "link": "https://www.theguardian.com/environment/2022/apr/13/poison-persecution-and-people-why-kenyas-raptors-are-disappearing",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31060000",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "What’s SAP?",
+            "link": "https://retool.com/blog/erp-for-engineers/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31059993",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "We Are as Geniuses",
+            "link": "https://www.vita.fit/genius",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31059992",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Even mild Covid-19 can cause your brain to shrink",
+            "link": "https://www.nationalgeographic.com/magazine/article/even-mild-covid-19-can-cause-your-brain-to-shrink",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31059990",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Things I hate about being a developer",
+            "link": "https://cult.honeypot.io/reads/worst-things-about-being-a-developer/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31059965",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Show HN: Subreply News (Beta)",
+            "link": "https://subreply.com/news",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31059949",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Ask HN: Articles, references and best practices of DDoS defense",
+            "link": "https://news.ycombinator.com/item?id=31059939",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31059939",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Ask HN: How do you implement a password input system –.?",
+            "link": "https://news.ycombinator.com/item?id=31059932",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31059932",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Aqui",
+            "link": "https://casadelpuro.com/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31059902",
+            "when": "2022-04-17T12:26:09.948Z"
+        },
+        {
+            "title": "Learnings after 500 commits to my vimrc",
+            "link": "https://iamsang.com/en/2022/04/13/vimrc/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=31059886",
+            "when": "2022-04-17T12:26:09.948Z"
+        }
+    ],
+    "lists": [],
+    "calendar": {}
+}

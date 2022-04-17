@@ -1,0 +1,42 @@
+{
+    "prefs": {
+        "enabled": true,
+        "url": "http://feeds.feedburner.com/nymag/intel",
+        "ctSecsBetwRenews": 86400,
+        "flNonListSubscribe": false
+    },
+    "data": {
+        "feedhash": ""
+    },
+    "stats": {
+        "ctReads": 1,
+        "ctReadErrors": 1,
+        "ctConsecutiveReadErrors": 1,
+        "ctItems": 0,
+        "ctEnclosures": 0,
+        "ctFeedTextChanges": 0,
+        "ct304s": 0,
+        "ctItemsTooOld": 0,
+        "ctReadsSkipped": 0,
+        "ctInfoReads": 0,
+        "ctInfoWrites": 1,
+        "whenSubscribed": "2022-04-17T12:26:08.872Z",
+        "whenLastRead": "2022-04-17T12:26:08.864Z",
+        "whenLastNewItem": "1970-01-01T00:00:00.000Z",
+        "mostRecentPubDate": "1970-01-01T00:00:00.000Z",
+        "whenLastInfoWrite": "2022-04-17T12:26:09.755Z",
+        "whenLastReadError": "2022-04-17T12:26:08.864Z",
+        "whenLastInfoRead": "1970-01-01T00:00:00.000Z",
+        "lastReadError": "Not a feed",
+        "itemSerialnum": 0,
+        "ctSecsLastRead": 0.891
+    },
+    "feedInfo": {
+        "title": "",
+        "link": "",
+        "description": ""
+    },
+    "history": [],
+    "lists": [],
+    "calendar": {}
+}
