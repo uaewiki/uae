@@ -12,6 +12,5 @@
 		</head>
 	<body text="lists/nyt.opml">
 		<outline htmlUrl="" text="Media Decoder" title="Media Decoder" type="rss" xmlUrl="http://mediadecoder.blogs.nytimes.com/feed/"></outline>
-		<outline htmlUrl="http://www.nytimes.com/pages/business/yourmoney/index.html?partner=rssnyt" name="nytYourMoney" text="NYT &gt; Your Money" title="NYT &gt; Your Money" type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/YourMoney.xml"></outline>
 		</body>
 	</opml>
